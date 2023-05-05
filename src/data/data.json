@@ -1,0 +1,123 @@
+[
+    {
+     "name": "Jesica",
+     "email": "Jesi@yahoo.com",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmHluE-h-CJuofbeVkL1BlUDw3B0TYImzhg&usqp=CAU",
+     "tamil": 81,
+     "eng": 78,
+     "sci": 68,
+     "soc": 55,
+     "math": 0,
+     "id": "1"
+    },
+    {
+     "name": "Zahra Jesin",
+     "email": "Zarah16@yahoo.com",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmHluE-h-CJuofbeVkL1BlUDw3B0TYImzhg&usqp=CAU",
+     "tamil": 100,
+     "eng": 100,
+     "sci": 68,
+     "soc": 77,
+     "math": 100,
+     "id": "2"
+    },
+    {
+     "name": "Loloia Jen",
+     "email": "loli187@gmail.com",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmHluE-h-CJuofbeVkL1BlUDw3B0TYImzhg&usqp=CAU",
+     "tamil": 71,
+     "eng": 70,
+     "sci": 60,
+     "soc": 50,
+     "math": 100,
+     "id": "3"
+    },
+    {
+     "name": "Andria",
+     "email": "Andria@gmail.com",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmHluE-h-CJuofbeVkL1BlUDw3B0TYImzhg&usqp=CAU",
+     "tamil": 88,
+     "eng": 80,
+     "sci": 68,
+     "soc": 55,
+     "math": 100,
+     "id": "4"
+    },
+    {
+     "name": "Almeera",
+     "email": "meera@hotmail.com",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzmHluE-h-CJuofbeVkL1BlUDw3B0TYImzhg&usqp=CAU",
+     "tamil": 88,
+     "eng": 81,
+     "sci": 68,
+     "soc": 97,
+     "math": 100,
+     "id": "5"
+    },
+    {
+     "name": "Reichert",
+     "email": "richard@hotmail.com",
+     "image": "https://thumbs.dreamstime.com/z/anonymous-boy-icon-cartoon-style-vector-web-design-isolated-white-background-220529558.jpg",
+     "tamil": 88,
+     "eng": 80,
+     "sci": 68,
+     "soc": 55,
+     "math": 100,
+     "id": "6"
+    },
+    {
+     "name": "Shelly",
+     "email": "shelly44@yahoo.com",
+     "image": "https://thumbs.dreamstime.com/z/anonymous-boy-icon-cartoon-style-vector-web-design-isolated-white-background-220529558.jpg",
+     "tamil": 88,
+     "eng": 80,
+     "sci": 68,
+     "soc": 55,
+     "math": 100,
+     "id": "7"
+    },
+    {
+     "name": "Carl Marx",
+     "email": "marx@yahoo.com",
+     "image": "https://thumbs.dreamstime.com/z/anonymous-boy-icon-cartoon-style-vector-web-design-isolated-white-background-220529558.jpg",
+     "tamil": 88,
+     "eng": 80,
+     "sci": 68,
+     "soc": 55,
+     "math": 100,
+     "id": "8"
+    },
+    {
+     "name": "Peter Paul",
+     "email": "paul@yahoo.com",
+     "image": "https://thumbs.dreamstime.com/z/anonymous-boy-icon-cartoon-style-vector-web-design-isolated-white-background-220529558.jpg",
+     "tamil": 88,
+     "eng": 80,
+     "sci": 68,
+     "soc": 55,
+     "math": 100,
+     "id": "9"
+    },
+    {
+     "name": "John Dey",
+     "email": "john@gmail.com",
+     "image": "https://thumbs.dreamstime.com/z/anonymous-boy-icon-cartoon-style-vector-web-design-isolated-white-background-220529558.jpg",
+     "tamil": 88,
+     "eng": 80,
+     "sci": 68,
+     "soc": 55,
+     "math": 100,
+     "id": "10"
+    },
+    {
+     "name": "Rizwan Ahmed",
+     "email": "rizu@gmail.com",
+     "image": "https://thumbs.dreamstime.com/z/anonymous-boy-icon-cartoon-style-vector-web-design-isolated-white-background-220529558.jpg",
+     "tamil": 88,
+     "eng": 80,
+     "sci": 68,
+     "soc": 55,
+     "math": 100,
+     "id": "11"
+    }
+   ]
